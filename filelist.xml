@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="Draconem" modversion="1.0.0" corepackage="False" gameversion="0.18.15.1" expectedhash="5E0D02482A689FD2D844D41A636ECC96">
+  <Submarine file="%ModDir%/Draconem.sub" />
+</contentpackage>
