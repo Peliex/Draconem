@@ -2,6 +2,6 @@
 set /p "path=Enter LocalMods directory:"
 set "dir=%cd%"
 pushd %path%
-mklink /D oreostweaks %dir%\src
+mklink /D draconem %dir%\src
 popd
 pause
