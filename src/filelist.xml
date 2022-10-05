@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<contentpackage name="Draconem" modversion="1.0.13" corepackage="False" steamworkshopid="2869111484" gameversion="0.18.15.1">
+<contentpackage name="Draconem" modversion="1.0.14" corepackage="False" steamworkshopid="2869111484" gameversion="0.19.10.0">
   <Submarine file="%ModDir%/Draconem.sub" />
   <Text file="%ModDir%/Texts/English/EnglishDraconem.xml" />
-  <Submarine file="LocalMods/Draconem/Draconem.sub" />
 </contentpackage>
